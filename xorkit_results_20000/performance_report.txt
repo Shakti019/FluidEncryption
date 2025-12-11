@@ -1,0 +1,14 @@
+=== Performance (Encryption/Decryption) ===
+
+Encryption and decryption time measured using time.perf_counter(). Values in seconds. Use median & 95% percentiles for robust reporting.
+
+Summary statistics:
+         enc_time_s    dec_time_s
+count  20000.000000  20000.000000
+mean       0.165112      0.224895
+std        0.019708      5.046064
+min        0.131962      0.127745
+25%        0.155773      0.156244
+50%        0.161933      0.162342
+75%        0.171260      0.171317
+max        0.599055    551.357837

@@ -1,0 +1,9 @@
+{
+  "N": 20000,
+  "decryption_accuracy_pct": 0.0,
+  "enc_time_mean_ms": 165.11235716499942,
+  "dec_time_mean_ms": 224.89450236997362,
+  "cipher_entropy_mean": 6.536897612498443,
+  "avalanche_mean_pct": 50.009056784993795,
+  "key_sensitivity_mean_pct": 49.9612669526772
+}

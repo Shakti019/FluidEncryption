@@ -1,0 +1,14 @@
+=== Avalanche & Key Sensitivity (sampled) ===
+
+Sampled avalanche and key sensitivity statistics saved separately.
+
+Summary statistics:
+       avalanche_sampled  key_sensitivity_sampled
+count         500.000000               500.000000
+mean           50.009057                49.961267
+std             1.431390                 1.361382
+min            44.345238                44.791667
+25%            49.074074                49.056412
+50%            50.000000                49.930556
+75%            50.849892                50.881410
+max            56.041667                55.208333
